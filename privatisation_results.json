@@ -1,0 +1,134 @@
+{
+    "Albania": {
+        "privatized": "no"
+    },
+    "Andorra": {
+        "privatized": "no"
+    },
+    "Armenia": {
+        "privatized": "no"
+    },
+    "Austria": {
+        "privatized": "partly"
+    },
+    "Azerbaijan": {
+        "privatized": "no"
+    },
+    "Belgium": {
+        "privatized": "partly"
+    },
+    "Bosnia and Herzegovina": {
+        "privatized": "no"
+    },
+    "Bulgaria": {
+        "privatized": "no"
+    },
+    "Croatia": {
+        "privatized": "no"
+    },
+    "Cyprus": {
+        "privatized": "no"
+    },
+    "Czechia": {
+        "privatized": "no"
+    },
+    "Denmark": {
+        "privatized": "no"
+    },
+    "Estonia": {
+        "privatized": "no"
+    },
+    "Finland": {
+        "privatized": "partly"
+    },
+    "France": {
+        "privatized": "no"
+    },
+    "Georgia": {
+        "privatized": "no"
+    },
+    "Germany": {
+        "privatized": "yes"
+    },
+    "Greece": {
+        "privatized": "partly"
+    },
+    "Hungary": {
+        "privatized": "no"
+    },
+    "Iceland": {
+        "privatized": "no"
+    },
+    "Ireland": {
+        "privatized": "no"
+    },
+    "Italy": {
+        "privatized": "partly"
+    },
+    "Kosovo": {
+        "privatized": "no"
+    },
+    "Latvia": {
+        "privatized": "no"
+    },
+    "Lithuania": {
+        "privatized": "partly"
+    },
+    "Luxembourg": {
+        "privatized": "no"
+    },
+    "Malta": {
+        "privatized": "partly"
+    },
+    "Moldova": {
+        "privatized": "no"
+    },
+    "Montenegro": {
+        "privatized": "partly"
+    },
+    "Netherlands": {
+        "privatized": "no"
+    },
+    "North Macedonia": {
+        "privatized": "no"
+    },
+    "Norway": {
+        "privatized": "no"
+    },
+    "Poland": {
+        "privatized": "no"
+    },
+    "Portugal": {
+        "privatized": "yes"
+    },
+    "Romania": {
+        "privatized": "partly"
+    },
+    "San Marino": {
+        "privatized": "no"
+    },
+    "Serbia": {
+        "privatized": "no"
+    },
+    "Slovakia": {
+        "privatized": "no"
+    },
+    "Slovenia": {
+        "privatized": "no"
+    },
+    "Spain": {
+        "privatized": "partly"
+    },
+    "Sweden": {
+        "privatized": "no"
+    },
+    "Switzerland": {
+        "privatized": "no"
+    },
+    "Ukraine": {
+        "privatized": "no"
+    },
+    "United Kingdom": {
+        "privatized": "yes"
+    }
+}
